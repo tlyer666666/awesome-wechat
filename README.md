@@ -8,11 +8,8 @@
 
 <p align="center"><img src="https://dl.deno.js.cn/buy-me-a-coffee-wechat.png" width="320" height="320" alt="" /></p>
 
-## QQ交流群
 
-- [微信小程序1号群](https://jq.qq.com/?_wv=1027&k=5vqgNd0)：593495800 （已满）
-- [微信小程序2号群](https://jq.qq.com/?_wv=1027&k=51d5Ckf)：578063690
-- [微信小程序3号群](https://jq.qq.com/?_wv=1027&k=5pNiKHt)：682463867
+
 
 ## 目录
 
